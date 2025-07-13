@@ -43,7 +43,7 @@ Explore my repositories to see real-world solutions, and feel free to connect—
 - 🔬 [**CropIQ**](https://github.com/durjaysamrat/CropIQ) – AI-powered rice disease detection app using camera + TensorFlow Lite  
 - 🏥 [**MediTrack**](https://github.com/durjaysamrat/MediTrack) – Java Spring Boot-based clinic management system  
 - 🐎 [**EquiRide**](https://github.com/durjaysamrat/EquiRide) – Real-time AI booking platform for horse riding  
-- 🧠 [**DevInsight**](https://github.com/durjaysamrat) *(WIP)* – AI tool that summarizes GitHub repo activity using OpenAI
+- 🧠 [**DevInsight**](https://github.com/durjaysamrat/DevInsight) *(WIP)* – AI tool that summarizes GitHub repo activity using OpenAI
 
 ---
 
